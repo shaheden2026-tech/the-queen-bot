@@ -1,4 +1,0 @@
-services:
-  - type: web
-    name: the-queen-bot
-    env: docker
